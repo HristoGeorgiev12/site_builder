@@ -1,0 +1,46 @@
+.user_information {
+    width: 300px;
+}
+
+textarea {
+    resize: none;
+}
+
+.reply_to_comment {
+    border-bottom: 2px solid black;
+    cursor: hand;
+}
+
+
+
+/*a {*/
+    /*text-decoration: none;*/
+    /*-webkit-transition: all 0.5s;*/
+    /*-moz-transition: all 0.5s;*/
+    /*transition: all 0.5s;*/
+/*}*/
+
+
+.edit {
+    border: 2px dotted black;
+    cursor: hand;
+
+    /*color: black;*/
+    /*font-family: Monoton;*/
+    /*-webkit-animation: neon1 1.5s ease-in-out infinite alternate;*/
+    /*-moz-animation: neon1 1.5s ease-in-out infinite alternate;*/
+    /*animation: neon1 1.5s ease-in-out infinite alternate;*/
+
+
+    /*text-decoration: none;*/
+    /*-webkit-transition: all 0.5s;*/
+    /*-moz-transition: all 0.5s;*/
+    /*transition: all 0.5s;*/
+}
+
+/*.edit:hover {*/
+    /*color: #FF1177;*/
+    /*-webkit-animation: none;*/
+    /*-moz-animation: none;*/
+    /*animation: none;*/
+/*}*/
